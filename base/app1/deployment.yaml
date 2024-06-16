@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app1
-        image: kavini/app1:latest
+        image: kavini/app1:d4bded912ad7232406a8768ef00cc48d9dcd8743
         ports:
         - containerPort: 8080
